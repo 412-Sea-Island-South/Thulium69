@@ -52,7 +52,7 @@ Thulium is relatively expensive and also quite rare (like $20+ per gram) and doe
     
 - Source 2
     
-    [](https://en.wikipedia.org/wiki/Thulium)
+    [Thulium Wiki on Wikipedia](https://en.wikipedia.org/wiki/Thulium)
     
 - Source 3
     
